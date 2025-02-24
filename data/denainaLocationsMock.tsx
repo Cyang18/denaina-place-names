@@ -1,0 +1,14 @@
+import { DenainaLocation } from "../types";
+
+export const denainaLocationsMock: DenainaLocation[] = [
+  {
+    id: '1',
+    title: 'Point Woronzof',
+    coordinates: [61.2050, -150.0128]
+  },
+  {
+    id: '2',
+    title: 'Campbell Creek',
+    coordinates: [61.2047, -149.8970]
+  }
+];
